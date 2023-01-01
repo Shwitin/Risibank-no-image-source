@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         RisiBank pour JVC
+// @name         RisiBank no image source
 // @namespace    risibank.fr
 // @description  La RisiBank intégrée sur JVC, comme par magie !
 // @author       RisiBank Admin
